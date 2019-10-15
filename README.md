@@ -1,5 +1,5 @@
 # cryptox
-cryptox - 256bit aes/gcm file encryptor 
+cryptox - 256bit aes/gcm file encryptor with pbkdf2
 
 # information about
 - Java
