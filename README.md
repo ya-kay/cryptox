@@ -24,5 +24,5 @@ cryptox - 256bit aes/gcm file encryptor with pbkdf2
 - ./jar2app /PATH/TO/YOUR/JAR
 - a macos application will be created in the cloned folder
 - right click on the apllication -> Show Package Contents 
-- copy the icons (for example .icns-file) into Contents/Resources
+- copy the icon (for example .icns-file) into Contents/Resources
 - edit Contents/info.plist -> set value in the row Icon File to ICONNAME.icns
