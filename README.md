@@ -5,11 +5,11 @@ cryptox - 256bit aes/gcm file encryptor with pbkdf2
 - Java
 - SecurityProvider: BouncyCastle
 - GUI with SceneBuilder
-- jar2app used to create a macos Application (https://github.com/Jorl17/jar2app)
+- jar2app to create a macos application (https://github.com/Jorl17/jar2app)
 
 # howto use BouncyCastle
 - default JAVA HOME folder (mac os): /Library/Java/JavaVirtualMachines/jdk***.jdk/Contents/Home/
-- download bcpkix, bcprov-ext and bcprov from https://www.bouncycastle.org/latest_releases.html and copy it into /Library/Java/JavaVirtualMachines/jdk***.jdk/Contents/Home/jre/lib/ext Folder
+- download  bcpkix-*  bcprov-ext-* and bcprov-*  from https://www.bouncycastle.org/latest_releases.html and copy it into /Library/Java/JavaVirtualMachines/jdk***.jdk/Contents/Home/jre/lib/ext Folder
 - download the unlimited restriction policy from https://www.oracle.com/technetwork/java/javase/downloads/jce8-download-2133166.html to use strong cryptography in Java and copy it into /Library/Java/JavaVirtualMachines/jdk***.jdk/Contents/Home/jre/lib/security Folder
 
 
